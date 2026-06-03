@@ -1,1 +1,1 @@
-# Fashion-Transparency
+# Nextjs Foundations course
